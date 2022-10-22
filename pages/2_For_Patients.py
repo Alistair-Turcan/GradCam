@@ -1,7 +1,7 @@
 
 import streamlit as st
-st.set_page_config(page_title="For Patients", page_icon="📈")
-st.sidebar.header("For Patients")
-st.title("For Patients")
+st.set_page_config(page_title="Self Examination", page_icon="📈")
+st.sidebar.header("Self Examination")
+st.title("Self Examination")
 
-st.video('https://www.youtube.com/watch?v=MPSz7UKbbOQ')
+st.video('https://www.youtube.com/watch?v=LrfE6JUwIms')
