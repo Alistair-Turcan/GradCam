@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="Processing Thermographs", page_icon="📈")
+st.set_page_config(page_title="Processing Thermographs")
 st.sidebar.header("Processing Thermographs")
 st.title("Processing Thermographs")
 
