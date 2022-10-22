@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(page_title="Thermograph Processing")
-st.sidebar.header("Thermograph Processing")
+#st.sidebar.header("Thermograph Processing")
 st.title("Thermograph Processing")
 
 uploaded_file = st.file_uploader("Choose an image...", type="jpg")
