@@ -1,2 +1,2 @@
 import streamlit as st
-st.image(
+st.image("alaoim_07.JPG")
